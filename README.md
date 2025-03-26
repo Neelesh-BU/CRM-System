@@ -37,3 +37,26 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
+
+## Screenshots
+
+### Signup Page
+![Signup] ().
+
+### Login Page
+![Login] ().
+
+### Dashboard Page
+![Dashboard] ().
+
+### Agent List
+![Agent] ().
+
+### Client List
+![Client] ().
+
+### New Agent List
+![New-Agent] ().
+
+### New Client List
+![New-Client] ().
