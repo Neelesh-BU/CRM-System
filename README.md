@@ -41,7 +41,7 @@ python manage.py runserver
 ## Screenshots
 
 ### Signup Page
-![Signup] ().
+![Signup] (https://github.com/Neelesh-BU/CRM-System/tree/main/Screenshots/Signup Page.png?raw=true).
 
 ### Login Page
 ![Login] ().
