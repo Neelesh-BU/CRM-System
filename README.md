@@ -41,22 +41,22 @@ python manage.py runserver
 ## Screenshots
 
 ### Signup Page
-![Signup](https://github.com/Neelesh-BU/CRM-System/blob/main/Screenshots/SignupPage.png?raw=true).
+![Signup](https://github.com/Neelesh-BU/CRM-System/blob/main/Screenshots/SignupPage.png?raw=true)
 
 ### Login Page
-![Login] ().
+![Login](https://github.com/Neelesh-BU/CRM-System/blob/main/Screenshots/LoginPage.png?raw=true)
 
 ### Dashboard Page
-![Dashboard] ().
+![Dashboard](https://github.com/Neelesh-BU/CRM-System/blob/main/Screenshots/Dashboard.png?raw=true)
 
 ### Agent List
-![Agent] ().
+![Agent](https://github.com/Neelesh-BU/CRM-System/blob/main/Screenshots/Agents.png?raw=true)
 
 ### Client List
-![Client] ().
+![Client](https://github.com/Neelesh-BU/CRM-System/blob/main/Screenshots/Clients.png?raw=true)
 
 ### New Agent List
-![New-Agent] ().
+![New-Agent](https://github.com/Neelesh-BU/CRM-System/blob/main/Screenshots/NewAgent.png?raw=true)
 
 ### New Client List
-![New-Client] ().
+![New-Client](https://github.com/Neelesh-BU/CRM-System/blob/main/Screenshots/NewClient.png?raw=true)
